@@ -1,7 +1,7 @@
 //
 // Created by chenjianmin on 2020/11/12.
 //
-//WHAT A 
+//branch v1 
 #ifndef LR_DATARECEIVE_CFUNCTOR_H
 #define LR_DATARECEIVE_CFUNCTOR_H
 #include <boost/function.hpp>
