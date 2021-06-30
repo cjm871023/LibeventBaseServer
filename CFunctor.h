@@ -1,5 +1,5 @@
 //
-// Created by chenjianmin on 2020/22222/12.
+// Created by fafsfsdfsfsdfsd on 2020/22222/12.
 //
 //WHAT A 
 #ifndef LR_DATARECEIVE_CFUNCTOR_H
