@@ -6,6 +6,7 @@
 #define LR_DATARECEIVE_CFUNCTOR_H
 #include <boost/function.hpp>
 #include <event2/event.h>
+//1454
 typedef boost::function<void()> FunctorCallback;
 class CFunctor
 {
