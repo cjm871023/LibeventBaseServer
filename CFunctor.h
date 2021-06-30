@@ -27,6 +27,7 @@ public:
 
     FunctorCallback m_Func;
 };
+//MODIFY IN MAIN BRANCH
 #endif //LR_DATARECEIVE_CFUNCTOR_H
 i//TEST FETCH
 //1440
